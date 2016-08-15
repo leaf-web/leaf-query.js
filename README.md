@@ -1,6 +1,6 @@
 # ![logo](docs/images/logo.jpg)-query.js
 
-Leaf-query.js is a small selector plugin for leaf.js that's based on jQuery.
+Leaf-query.js is a jQuery-like selector engine for leaf.js.
 
 * [Contributing] (CONTRIBUTING.md)
 * [Gitter](https://gitter.im/leaf-js/lobby)
