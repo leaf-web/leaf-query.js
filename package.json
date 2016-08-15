@@ -1,0 +1,14 @@
+{
+  "name": "Leaf-query.js",
+  "description": "Leaf-query.js is a small selector plugin for leaf.js",
+  "version": "1.0.0",
+  "author": "Eric Harms",
+  "repository": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.5.1", 
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.11.0"
+  },
+  "license": "MIT"
+}
