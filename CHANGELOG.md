@@ -1,4 +1,4 @@
-# 1.0.1  (8/17/2016)
+# 1.0.1  (8/30/2016)
 
 * Added: bower.json
 * Added: CODEOFCONDUCT.md
