@@ -9,11 +9,11 @@ Leaf-query.js is a jQuery-like selector engine for leaf.js.
 
 Install using Bower:
 
-	$ bower install --save leaf-query
+	$ bower install --save leaf-query.js
 
 Install using Npm:
 
-	$ npm install --save leaf-query
+	$ npm install --save leaf-query.js
 
 ## Building Leaf.js
 
