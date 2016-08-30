@@ -2,8 +2,18 @@
 
 Leaf-query.js is a jQuery-like selector engine for leaf.js.
 
-* [Contributing] (CONTRIBUTING.md)
+* [Contribution Guidelines](https://github.com/leaf-web/leaf.seed/blob/master/CONTRIBUTING.md)
 * [Gitter](https://gitter.im/leaf-js/lobby)
+
+## Installing Leaf-query
+
+Install using Bower:
+
+	$ bower install --save leaf-query
+
+Install using Npm:
+
+	$ npm install --save leaf-query
 
 ## Building Leaf.js
 
@@ -18,7 +28,7 @@ Once you have setup your environment, run:
 			<p>Hello World</p>
 
 			<script src="scripts/leaf-query.min.js"></script>
-				$("P").on('click', function(e) {
+				$("p").on('click', function(e) {
 					$(this).hide();
 				});
 			<script>

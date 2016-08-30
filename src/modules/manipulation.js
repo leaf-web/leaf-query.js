@@ -77,7 +77,7 @@ removeAttr: function(name) {
  * See: http://api.jquery.com/val/
  */
 
-val: function(name, value) {	
+val: function(value) {	
 	if(value) {
 		this.each(function(el) {
 			el.value = value;
