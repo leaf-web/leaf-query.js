@@ -1,7 +1,7 @@
 {
   "name": "leaf-query",
   "description": "Leaf-query.js is a small selector plugin for leaf.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Eric Harms",
   "repository": {},
   "devDependencies": {
